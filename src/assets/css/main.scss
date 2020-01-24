@@ -1,0 +1,32 @@
+.dropzone .dz-preview.dz-image-preview, .dropzone .dz-preview.dz-file-preview {
+    height: auto !important;
+}
+.dropzone .img-thumbnail {
+    height: auto !important;
+}
+
+.dropzone .dz-preview.dz-image-preview, .dropzone .dz-preview.dz-file-preview {
+    margin: 0px !important;
+    border: 0px !important;
+    width: 100% !important;
+}
+
+
+.modal-backdrop {
+    background-color: rgba(0,0,0,0.5);
+}
+
+
+input.v-money {
+    border-radius: 0.1rem;
+    outline: initial !important;
+    -webkit-box-shadow: initial !important;
+    box-shadow: initial !important;
+    font-size: 0.8rem;
+    padding: 0.7rem 0.75rem 0.65rem 0.75rem;
+    line-height: 1.5;
+    border: 1px solid #d7d7d7;
+    background: white;
+    color: #212121;
+    width: 100%;
+}
